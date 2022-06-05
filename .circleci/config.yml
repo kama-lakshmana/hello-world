@@ -65,4 +65,5 @@ workflows:
           requires:
             - save_hello_world_output
       - print-variable
+      - create_infrastructure
 
